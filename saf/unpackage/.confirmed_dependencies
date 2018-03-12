@@ -1,0 +1,65 @@
+{
+	"index.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css",
+			"index2.html"
+		],
+		"refer": [
+			"index3.html",
+			"index2.html",
+			"index5.html",
+			"index4.html"
+		]
+	},
+	"index2.html": {
+		"resources": [
+			"css/mui.css",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"index3.html": {
+		"resources": [
+			"image/02.jpg",
+			"image/01.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.css",
+			"css/mui.min.css",
+			"image/04.jpg",
+			"image/03.jpg",
+			"image/05.jpg"
+		],
+		"refer": [
+			"list.html"
+		]
+	},
+	"index4.html": {
+		"resources": [
+			"image/02.jpg",
+			"image/04.jpg",
+			"image/03.jpg",
+			"image/01.jpg",
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"index5.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	},
+	"list.html": {
+		"resources": [
+			"js/mui.min.js",
+			"fonts/mui.ttf",
+			"css/mui.min.css"
+		]
+	}
+}
